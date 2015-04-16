@@ -3,10 +3,10 @@
 #### Prequisites:
 
 Android SDK; current SDK dependencies are:
-- Android-17
-- Google APIS 17
-- Android-14
-- Extras
+- build-tools-20.0.0
+- android-20
+- extra
+- addon-google_apis-google-17
 
 The `ANDROID_HOME` environment variable needs to be set.
 
