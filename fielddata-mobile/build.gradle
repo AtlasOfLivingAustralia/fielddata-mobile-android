@@ -103,6 +103,11 @@ android {
             versionCode 1
             versionName "1.0"
         }
+        rbgdt {
+            applicationId "au.org.ala.fielddata.mobile.rbgdt"
+            versionCode 1
+            versionName "1.0"
+        }
         wfr {
             applicationId "au.org.ala.fielddata.mobile.wfr"
             versionCode 8
