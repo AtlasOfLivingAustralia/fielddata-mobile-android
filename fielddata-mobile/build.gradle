@@ -105,7 +105,7 @@ android {
         }
         rbgdt {
             applicationId "au.org.ala.fielddata.mobile.rbgdt"
-            versionCode 2
+            versionCode 3
             versionName "1.0"
         }
         wfr {
